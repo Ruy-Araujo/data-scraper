@@ -1,0 +1,11 @@
+# OS generated files #
+.env
+*__pycache__
+.vscode
+.temp
+
+# Temporary Data #
+data
+driver/*
+!*.md
+venv

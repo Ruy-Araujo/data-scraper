@@ -1,0 +1,4 @@
+python-dotenv
+requests
+selenium
+m3u8
